@@ -17,6 +17,9 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"personagem_andando_atras","order":5,"path":"sprites/personagem_andando_atras/personagem_andando_atras.yy",},
+    {"name":"personagem_frente_andando","order":3,"path":"sprites/personagem_frente_andando/personagem_frente_andando.yy",},
+    {"name":"personagem_parado","order":4,"path":"sprites/personagem_parado/personagem_parado.yy",},
     {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"tilesettiemplate","order":1,"path":"sprites/tilesettiemplate/tilesettiemplate.yy",},
   ],

@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"calouroidle",
-    "path":"sprites/calouroidle/calouroidle.yy",
+    "name":"personagem_parado",
+    "path":"sprites/personagem_parado/personagem_parado.yy",
   },
   "spriteMaskId":null,
   "visible":true,

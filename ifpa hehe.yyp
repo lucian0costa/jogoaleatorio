@@ -37,7 +37,9 @@
   "resources":[
     {"id":{"name":"calouro","path":"objects/calouro/calouro.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"calouroidle","path":"sprites/calouroidle/calouroidle.yy",},},
+    {"id":{"name":"personagem_andando_atras","path":"sprites/personagem_andando_atras/personagem_andando_atras.yy",},},
+    {"id":{"name":"personagem_frente_andando","path":"sprites/personagem_frente_andando/personagem_frente_andando.yy",},},
+    {"id":{"name":"personagem_parado","path":"sprites/personagem_parado/personagem_parado.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"tilesettiemplate","path":"sprites/tilesettiemplate/tilesettiemplate.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},

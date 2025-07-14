@@ -37,6 +37,8 @@
   "resources":[
     {"id":{"name":"calouro","path":"objects/calouro/calouro.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"corebackground","path":"sprites/corebackground/corebackground.yy",},},
+    {"id":{"name":"coreSprite","path":"sprites/coreSprite/coreSprite.yy",},},
     {"id":{"name":"personagem_andando_atras","path":"sprites/personagem_andando_atras/personagem_andando_atras.yy",},},
     {"id":{"name":"personagem_andando_direita","path":"sprites/personagem_andando_direita/personagem_andando_direita.yy",},},
     {"id":{"name":"personagem_andando_esquerda","path":"sprites/personagem_andando_esquerda/personagem_andando_esquerda.yy",},},
@@ -45,8 +47,6 @@
     {"id":{"name":"personagem_parado_direita","path":"sprites/personagem_parado_direita/personagem_parado_direita.yy",},},
     {"id":{"name":"personagem_parado_esquerda","path":"sprites/personagem_parado_esquerda/personagem_parado_esquerda.yy",},},
     {"id":{"name":"personagem_parado","path":"sprites/personagem_parado/personagem_parado.yy",},},
-    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
-    {"id":{"name":"tilesettiemplate","path":"sprites/tilesettiemplate/tilesettiemplate.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
   ],
   "resourceType":"GMProject",

@@ -15,3 +15,11 @@ else {
             else if(sprite_index == personagem_andando_direita) sprite_index = personagem_parado_direita;
                 else if(sprite_index == personagem_andando_esquerda) sprite_index = personagem_parado_esquerda;
 }
+if (keyboard_check_direct(vk_shift)){
+    if (move_speed == 1){
+        move_speed += 1;
+    }
+    else {
+    	move_speed = 1; 
+    }
+}

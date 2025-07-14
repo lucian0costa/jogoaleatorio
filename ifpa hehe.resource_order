@@ -18,7 +18,12 @@
   ],
   "ResourceOrderSettings":[
     {"name":"personagem_andando_atras","order":5,"path":"sprites/personagem_andando_atras/personagem_andando_atras.yy",},
+    {"name":"personagem_andando_direita","order":8,"path":"sprites/personagem_andando_direita/personagem_andando_direita.yy",},
+    {"name":"personagem_andando_esquerda","order":7,"path":"sprites/personagem_andando_esquerda/personagem_andando_esquerda.yy",},
     {"name":"personagem_frente_andando","order":3,"path":"sprites/personagem_frente_andando/personagem_frente_andando.yy",},
+    {"name":"personagem_parado_atras","order":6,"path":"sprites/personagem_parado_atras/personagem_parado_atras.yy",},
+    {"name":"personagem_parado_direita","order":9,"path":"sprites/personagem_parado_direita/personagem_parado_direita.yy",},
+    {"name":"personagem_parado_esquerda","order":10,"path":"sprites/personagem_parado_esquerda/personagem_parado_esquerda.yy",},
     {"name":"personagem_parado","order":4,"path":"sprites/personagem_parado/personagem_parado.yy",},
     {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"tilesettiemplate","order":1,"path":"sprites/tilesettiemplate/tilesettiemplate.yy",},

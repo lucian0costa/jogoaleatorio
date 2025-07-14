@@ -14,8 +14,8 @@
   "frames":[
     {"$GMSpriteFrame":"","%Name":"7fe41a46-91c3-417a-bda3-4d0d7f4d8db3","name":"7fe41a46-91c3-417a-bda3-4d0d7f4d8db3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"f1a73082-e667-454d-9fd4-2f30946fb410","name":"f1a73082-e667-454d-9fd4-2f30946fb410","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"f6e33b24-5740-42fd-823d-140123d79b21","name":"f6e33b24-5740-42fd-823d-140123d79b21","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"fa5708d2-f8fa-4973-9e29-6222a51c0161","name":"fa5708d2-f8fa-4973-9e29-6222a51c0161","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"f6e33b24-5740-42fd-823d-140123d79b21","name":"f6e33b24-5740-42fd-823d-140123d79b21","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -99,11 +99,11 @@
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f1a73082-e667-454d-9fd4-2f30946fb410","path":"sprites/personagem_frente_andando/personagem_frente_andando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"1c427b03-2d24-4d6d-aee0-f762a6839b08","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f6e33b24-5740-42fd-823d-140123d79b21","path":"sprites/personagem_frente_andando/personagem_frente_andando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"3483461b-fbbd-4168-8016-6eb311d3378e","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fa5708d2-f8fa-4973-9e29-6222a51c0161","path":"sprites/personagem_frente_andando/personagem_frente_andando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"0e74e913-e4c9-41ff-a049-1d569e423cc7","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"0e74e913-e4c9-41ff-a049-1d569e423cc7","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f6e33b24-5740-42fd-823d-140123d79b21","path":"sprites/personagem_frente_andando/personagem_frente_andando.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"3483461b-fbbd-4168-8016-6eb311d3378e","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
